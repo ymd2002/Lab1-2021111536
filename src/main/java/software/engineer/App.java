@@ -623,7 +623,7 @@ public class App
 
 /**
  * GUI窗口，用于展示有向图
- * 利用 Graphviz 生成图片并保存，读取图片展示在界面上。
+ * 利用 Graphviz 生成图片并保存，读取图片展示在界面上
  */
 class ImageFrame extends JFrame {
 
