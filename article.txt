@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 The quick brown fox jumps over the lazy dog.
 fdjkhosjk
 modified
+=======
+hello!
+>>>>>>> C4
